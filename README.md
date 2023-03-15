@@ -62,7 +62,7 @@ output: 长度为0的list, 设为pred,
 
 ## 四、使用样例
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/yolov5.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/yolov5.git
 
 便会在项目目录下下载到yolov5相关代码
 
